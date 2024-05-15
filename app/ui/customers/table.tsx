@@ -13,7 +13,7 @@ export default async function CustomersTable({
   return (
     <div className="w-full">
       <h1 className={`mb-8 text-xl md:text-2xl`}>
-        Customers
+        Customerss
       </h1>
       <Search placeholder="Search customers..." />
       <div className="mt-6 flow-root">
